@@ -1,2 +1,2 @@
-# write-it-down
+# write-this-down
 Note Taker
